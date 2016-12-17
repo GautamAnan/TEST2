@@ -5,6 +5,6 @@ package com.gautam.test2;
  */
 public class AlarmManager {
     public void FreeCharge(){
-
+int i;
     }
 }
